@@ -4,6 +4,8 @@ Welcome to the Government Women's Polytechnic, Patna, Bihar Networking Projects 
 
 This repository is dedicated to the brilliant 2nd-year Polytechnic students who have completed 60 hours of technical training under our guidance. Here, you'll find a collection of networking projects crafted by these talented individuals from Government Women's Polytechnic, showcasing their skills and innovation. "Samāveśasthalaḥ," in Sanskrit, refers to an inclusive space, embodying a place where diverse ideas converge and thrive. It symbolizes a haven for collaboration, welcoming varied perspectives and fostering growth.
 
+---
+
 ### Submission Guidelines
 - Ensure your project reflects the networking skills learned during the training.
 - Provide clear documentation and instructions for setup and usage.
@@ -12,7 +14,7 @@ This repository is dedicated to the brilliant 2nd-year Polytechnic students who 
 
 We encourage all students to contribute their projects and celebrate the culmination of their hard work and dedication in the realm of networking.
 
-For any inquiries or support, please reach out to us at [info@bitstensor.com](mailto:info@bitstensor.com) or visit our website [Bitstensor](https://www.bitstensor.com/).
+For any inquiries or support, please reach out to us at [info@bitstensor.com](mailto:info@bitstensor.com) or visit our website [bitstensor.com](https://www.bitstensor.com/).
 
 Let's create a vibrant hub of networking innovations together!
 
