@@ -2,6 +2,8 @@
 
 Absolutely! Please provide the text you'd like me to convert into a professional paragraph for your networking project.
 
+![png](scr/image.png)
+
 ## Installation
 - Step 1: Download Packet Tracer: Visit the Cisco Networking Academy website or Cisco's official website to download the Packet Tracer installer. You may need to create a free Cisco Networking Academy account to access the download.
 - Step 2: Run the Installer: Once the download is complete, run the installer by double-clicking the downloaded file.
