@@ -20,6 +20,6 @@ We encourage all students to contribute their projects and celebrate the culmina
 
 For any inquiries or support, please reach out to us at [info@bitstensor.com](mailto:info@bitstensor.com) or visit our website [bitstensor.com](https://www.bitstensor.com/).
 
-Let's create a vibrant hub of networking innovations together!
+Let's create a vibrant hub of networking innovations together! 
 
 ---
