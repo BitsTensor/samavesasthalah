@@ -12,8 +12,21 @@ architecture
 
 
 ## Installation
-- Describe the installation steps
-- List any system dependencies or requirements
+-step1:download cisco pracket tracer
+acess the official download link for cisci packet tracer by visting
+http://www.link.com/.locate the appropriate version of packet tracer compatlble
+with your operating system
+-step2installation process
+follow the promptprovided by the another to the on screen instruction to complete the instalation
+produces
+-step3:accept licence agrement
+review and accept the cisci packet tracer end-user licence agrement(EULA)to
+proced with the installation . ensure compliance with the terms and conditions
+outined in the agrament
+-step4:choose installation location
+select the preferred directory or location on your system where you wish to tnstall cisci packet tracer.confrom the selection and proceed to inltlate the installation process
+-step5:completion ans access
+upon successful installation access cisco pracket tracer from the desiganted installation directory or via shortcuts created during the insatallation process .lanch the applicationto begln utilling its networking simlation feartures.
 
 ## Usage
 -download the this repo. 
@@ -32,5 +45,5 @@ Thank you for considering contributing to this project! Here are the basic steps
 5. Create a new **Pull Request**.
 
 ## Contact
-- Email: [nishabharati707977@mail.com](mailto:nishabharati707977@mail.com) | LinkedIn: [nisha bharati](https://www.linkedin.com/in/your-address/)
+- Email: [nishabharati707977@mail.com](mailto:nishabharati707977@mail.com) | LinkedIn: [nisha bharati](https://www.linkedin.com/in/Nisha Bharati)
 
