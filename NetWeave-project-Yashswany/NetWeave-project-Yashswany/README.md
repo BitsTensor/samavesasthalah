@@ -27,7 +27,7 @@ Overall, this project provides a robust and secure network configuration,
  incorporating various features such as VLAN segmentation, routing with EIGRP, NAT, 
 and access controls to meet specific communication requirements and enhance network security.
 
-![png](NetWeave-project-yashswany/![src](https://github.com/YashswanyPrakash/samavesasthalah/assets/152088752/d5df6741-512f-4ef3-bdad-383cbce8edb5)
+![src](https://github.com/YashswanyPrakash/samavesasthalah/assets/152088752/d5df6741-512f-4ef3-bdad-383cbce8edb5)
 
 
 
