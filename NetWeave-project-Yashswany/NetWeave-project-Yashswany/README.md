@@ -28,10 +28,6 @@ Overall, this project provides a robust and secure network configuration,
 and access controls to meet specific communication requirements and enhance network security.
 
 
-"C:\Users\ACER\Desktop\NetWeave-project-Yashswany\NetWeave-project-Yashswany\src.png"
-
-
-
 ## Installation
 To install Cisco Packet Tracer on your desktop, follow these steps:
 
