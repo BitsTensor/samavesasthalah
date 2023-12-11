@@ -70,7 +70,7 @@ you can download the cisco packet tracers from this link "https://drive.google.c
 
 ## Usage
 - 1. download this rapository.
-- 2. open file NetWeave.pkt with cisco packet tracer.
+- 2. open file NetWeave-project-yashswany.pkt with cisco packet tracer.
 
 ## License
 - This project is licensed under the MIT License. 
