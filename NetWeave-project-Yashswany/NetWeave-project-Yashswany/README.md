@@ -79,4 +79,4 @@ Thank you for considering contributing to this project! Here are the basic steps
 5. Create a new **Pull Request**.
 
 ## Contact
-- Email: [amar301275@gmail.com](mailto:amar301275@gmail.com) | LinkedIn: [Yashswany Prakash](https://www.linkedin.com/in/your-address/)
+- Email: [amar301275@gmail.com](mailto:amar301275@gmail.com) | LinkedIn: [Yashswany Prakash](https://www.linkedin.com/in/yashswany-prakash-9827a42a1/)
